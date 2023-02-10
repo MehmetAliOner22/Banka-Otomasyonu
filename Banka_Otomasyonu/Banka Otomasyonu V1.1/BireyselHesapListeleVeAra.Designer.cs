@@ -1,0 +1,117 @@
+﻿namespace Banka_Otomasyonu_V1._1
+{
+    partial class BireyselHesapListeleVeAra
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.gridBireyselHesap = new System.Windows.Forms.DataGridView();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtNo = new System.Windows.Forms.TextBox();
+            this.btnHesapAra = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            ((System.ComponentModel.ISupportInitialize)(this.gridBireyselHesap)).BeginInit();
+            this.panel1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // gridBireyselHesap
+            // 
+            this.gridBireyselHesap.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.gridBireyselHesap.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.gridBireyselHesap.Location = new System.Drawing.Point(3, 54);
+            this.gridBireyselHesap.Name = "gridBireyselHesap";
+            this.gridBireyselHesap.Size = new System.Drawing.Size(867, 263);
+            this.gridBireyselHesap.TabIndex = 36;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(27, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(72, 16);
+            this.label1.TabIndex = 35;
+            this.label1.Text = "Hesap No:";
+            // 
+            // txtNo
+            // 
+            this.txtNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtNo.Location = new System.Drawing.Point(105, 12);
+            this.txtNo.Name = "txtNo";
+            this.txtNo.Size = new System.Drawing.Size(100, 22);
+            this.txtNo.TabIndex = 1;
+            this.txtNo.TextChanged += new System.EventHandler(this.txtNo_TextChanged);
+            // 
+            // btnHesapAra
+            // 
+            this.btnHesapAra.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnHesapAra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnHesapAra.Location = new System.Drawing.Point(227, 12);
+            this.btnHesapAra.Name = "btnHesapAra";
+            this.btnHesapAra.Size = new System.Drawing.Size(99, 27);
+            this.btnHesapAra.TabIndex = 2;
+            this.btnHesapAra.Text = "Hesap Ara";
+            this.btnHesapAra.UseVisualStyleBackColor = false;
+            this.btnHesapAra.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.Controls.Add(this.gridBireyselHesap);
+            this.panel1.Controls.Add(this.btnHesapAra);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.txtNo);
+            this.panel1.Location = new System.Drawing.Point(46, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(873, 317);
+            this.panel1.TabIndex = 37;
+            // 
+            // BireyselHesapListeleVeAra
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.SteelBlue;
+            this.ClientSize = new System.Drawing.Size(967, 315);
+            this.Controls.Add(this.panel1);
+            this.Name = "BireyselHesapListeleVeAra";
+            this.Text = "Bireysel Hesap Listele Ve Ara Paneli";
+            this.Load += new System.EventHandler(this.BireyselHesapListeleVeAra_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.gridBireyselHesap)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.DataGridView gridBireyselHesap;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtNo;
+        private System.Windows.Forms.Button btnHesapAra;
+        private System.Windows.Forms.Panel panel1;
+    }
+}

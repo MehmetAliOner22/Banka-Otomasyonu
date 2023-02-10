@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{552C7240-EB65-479A-BEAF-BFEA082A708C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Banka_Otomasyonu_V1._1</RootNamespace>
+    <AssemblyName>Banka Otomasyonu V1.1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGiris.Designer.cs">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPaneli.Designer.cs">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AktifBireyselMusteri.cs" />
+    <Compile Include="AktifMusteri.cs" />
+    <Compile Include="AktifTicariMusteri.cs" />
+    <Compile Include="Banka Bireysel Hesap Ozet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Banka Bireysel Hesap Ozet.Designer.cs">
+      <DependentUpon>Banka Bireysel Hesap Ozet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Banka Ticari Hesap Ozet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Banka Ticari Hesap Ozet.Designer.cs">
+      <DependentUpon>Banka Ticari Hesap Ozet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Banka.cs" />
+    <Compile Include="BankaBireyselKisiselBilgiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaBireyselKisiselBilgiler.Designer.cs">
+      <DependentUpon>BankaBireyselKisiselBilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankaTicariKişiselBilgiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankaTicariKişiselBilgiler.Designer.cs">
+      <DependentUpon>BankaTicariKişiselBilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHavaleYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHavaleYap.Designer.cs">
+      <DependentUpon>BireyselHavaleYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesap.cs" />
+    <Compile Include="BireyselHesapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesapForm.Designer.cs">
+      <DependentUpon>BireyselHesapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesaplarArasıTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesaplarArasıTransfer.Designer.cs">
+      <DependentUpon>BireyselHesaplarArasıTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesapOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesapOzet.Designer.cs">
+      <DependentUpon>BireyselHesapOzet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesapSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesapSil.Designer.cs">
+      <DependentUpon>BireyselHesapSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselMusteri.cs" />
+    <Compile Include="BireyselMusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselMusteriEkle.Designer.cs">
+      <DependentUpon>BireyselMusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselMusteriGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselMusteriGirisi.Designer.cs">
+      <DependentUpon>BireyselMusteriGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselMusterileriListeleVeAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselMusterileriListeleVeAra.Designer.cs">
+      <DependentUpon>BireyselMusterileriListeleVeAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaGiris.Designer.cs">
+      <DependentUpon>AnaGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesapEkle.Designer.cs">
+      <DependentUpon>BireyselHesapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselHesapListeleVeAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselHesapListeleVeAra.Designer.cs">
+      <DependentUpon>BireyselHesapListeleVeAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselParaCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselParaCek.Designer.cs">
+      <DependentUpon>BireyselParaCek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselParaYatir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselParaYatir.Designer.cs">
+      <DependentUpon>BireyselParaYatir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hesap.cs" />
+    <Compile Include="IslemBilgileri.cs" />
+    <Compile Include="BireyselKisiselBilgiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselKisiselBilgiler.Designer.cs">
+      <DependentUpon>BireyselKisiselBilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteri.cs" />
+    <Compile Include="MusteriGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriGirisi.Designer.cs">
+      <DependentUpon>MusteriGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariBilgiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariBilgiler.Designer.cs">
+      <DependentUpon>TicariBilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHavaleYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHavaleYap.Designer.cs">
+      <DependentUpon>TicariHavaleYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesap.cs" />
+    <Compile Include="TicariHesapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesapForm.Designer.cs">
+      <DependentUpon>TicariHesapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesaplarArasıTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesaplarArasıTransfer.Designer.cs">
+      <DependentUpon>TicariHesaplarArasıTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesapOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesapOzet.Designer.cs">
+      <DependentUpon>TicariHesapOzet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesapSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesapSil.Designer.cs">
+      <DependentUpon>TicariHesapSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BireyselMusteriSilPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BireyselMusteriSilPaneli.Designer.cs">
+      <DependentUpon>BireyselMusteriSilPaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesapEkle.Designer.cs">
+      <DependentUpon>TicariHesapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariHesapListeleVeAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariHesapListeleVeAra.Designer.cs">
+      <DependentUpon>TicariHesapListeleVeAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariMSilPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariMSilPanel.Designer.cs">
+      <DependentUpon>TicariMSilPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariMusteri.cs" />
+    <Compile Include="TicariMusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariMusteriEkle.Designer.cs">
+      <DependentUpon>TicariMusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicariMusteriGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariMusteriGiris.Designer.cs">
+      <DependentUpon>TicariMusteriGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariMusteriListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariMusteriListele.Designer.cs">
+      <DependentUpon>TicariMusteriListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariParaCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariParaCek.Designer.cs">
+      <DependentUpon>TicariParaCek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicariParaYatir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicariParaYatir.Designer.cs">
+      <DependentUpon>TicariParaYatir.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminGiris.resx">
+      <DependentUpon>AdminGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPaneli.resx">
+      <DependentUpon>AdminPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Banka Bireysel Hesap Ozet.resx">
+      <DependentUpon>Banka Bireysel Hesap Ozet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Banka Ticari Hesap Ozet.resx">
+      <DependentUpon>Banka Ticari Hesap Ozet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaBireyselKisiselBilgiler.resx">
+      <DependentUpon>BankaBireyselKisiselBilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankaTicariKişiselBilgiler.resx">
+      <DependentUpon>BankaTicariKişiselBilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHavaleYap.resx">
+      <DependentUpon>BireyselHavaleYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesapForm.resx">
+      <DependentUpon>BireyselHesapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesaplarArasıTransfer.resx">
+      <DependentUpon>BireyselHesaplarArasıTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesapOzet.resx">
+      <DependentUpon>BireyselHesapOzet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesapSil.resx">
+      <DependentUpon>BireyselHesapSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselMusteriEkle.resx">
+      <DependentUpon>BireyselMusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselMusteriGirisi.resx">
+      <DependentUpon>BireyselMusteriGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselMusterileriListeleVeAra.resx">
+      <DependentUpon>BireyselMusterileriListeleVeAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaGiris.resx">
+      <DependentUpon>AnaGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesapEkle.resx">
+      <DependentUpon>BireyselHesapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselHesapListeleVeAra.resx">
+      <DependentUpon>BireyselHesapListeleVeAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselParaCek.resx">
+      <DependentUpon>BireyselParaCek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselParaYatir.resx">
+      <DependentUpon>BireyselParaYatir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselKisiselBilgiler.resx">
+      <DependentUpon>BireyselKisiselBilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriGirisi.resx">
+      <DependentUpon>MusteriGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariBilgiler.resx">
+      <DependentUpon>TicariBilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHavaleYap.resx">
+      <DependentUpon>TicariHavaleYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesapForm.resx">
+      <DependentUpon>TicariHesapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesaplarArasıTransfer.resx">
+      <DependentUpon>TicariHesaplarArasıTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesapOzet.resx">
+      <DependentUpon>TicariHesapOzet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesapSil.resx">
+      <DependentUpon>TicariHesapSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BireyselMusteriSilPaneli.resx">
+      <DependentUpon>BireyselMusteriSilPaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesapEkle.resx">
+      <DependentUpon>TicariHesapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariHesapListeleVeAra.resx">
+      <DependentUpon>TicariHesapListeleVeAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariMSilPanel.resx">
+      <DependentUpon>TicariMSilPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariMusteriEkle.resx">
+      <DependentUpon>TicariMusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TicariMusteriGiris.resx">
+      <DependentUpon>TicariMusteriGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariMusteriListele.resx">
+      <DependentUpon>TicariMusteriListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariParaCek.resx">
+      <DependentUpon>TicariParaCek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicariParaYatir.resx">
+      <DependentUpon>TicariParaYatir.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

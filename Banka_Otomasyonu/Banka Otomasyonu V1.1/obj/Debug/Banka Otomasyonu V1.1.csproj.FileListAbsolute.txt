@@ -1,0 +1,649 @@
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Form1.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriSilPaneli.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListele.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriNoIleAra.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TCNoIleMusteriAra.resources
+C:\Users\mehmt\source\repos\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Form1.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-main\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGiris.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BankaOtomasyonu-V2\Banka Otomasyonu V1.1\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGiris.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\Banka Otomasyonu V3\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.HesapSil.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V4\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\Banka Otomasyonu V5\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka Otomasyonu V6 BankaFinal\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder (3)\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaBireyselKisiselBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaTicariKişiselBilgiler.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Bireysel_Hesap_Ozet.resources
+C:\Users\ADMİN\Desktop\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Ticari_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Bireysel_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Ticari_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaBireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaTicariKişiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043-V31\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Bireysel_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Ticari_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaBireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaTicariKişiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601077 - 210601043\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Bireysel_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Ticari_Hesap_Ozet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaBireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaTicariKişiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Downloads\BIL201-DönemProjesi-210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe.config
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\bin\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.AssemblyReference.cache
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminGiris.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AdminPaneli.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Bireysel_Hesap_Ozet.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Banka_Ticari_Hesap_Ozet.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaBireyselKisiselBilgiler.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BankaTicariKişiselBilgiler.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHavaleYap.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapForm.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapOzet.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapSil.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusterileriListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.AnaGiris.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapEkle.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaCek.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselParaYatir.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselKisiselBilgiler.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.MusteriGirisi.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariBilgiler.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHavaleYap.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapForm.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapOzet.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapSil.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselMusteriSilPaneli.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapEkle.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesapListeleVeAra.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMSilPanel.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriEkle.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.Properties.Resources.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriGiris.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariMusteriListele.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaCek.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariParaYatir.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.GenerateResource.cache
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.csproj.CoreCompileInputs.cache
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.exe
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka Otomasyonu V1.1.pdb
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.BireyselHesaplarArasıTransfer.resources
+C:\Users\kenge\Desktop\New folder\BIL201 - DönemProjesi - 210601043 - 210601077\Banka_Otomasyonu\Banka Otomasyonu V1.1\obj\Debug\Banka_Otomasyonu_V1._1.TicariHesaplarArasıTransfer.resources
